@@ -1,0 +1,4 @@
+5,5.5,6,6.5,7,7.5,8,13,14,14.75,15,15.5,16.5,16.75,21,22.5,23.5,24.5,29,29.5,30,30.5,31.5,31.75,32;
+left,up,right,left,up,right,down,up,right,left,up,right,left,left,up,right,down,left,up,right,down,right,up,left,down;
+95;
+Damage;

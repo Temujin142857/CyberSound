@@ -1,0 +1,4 @@
+5,5.75,6,6.75,7,8,13,13.5,14.5,14.75,15,16,21.5,21.75,22,22.75,23,23.5,24,29,30,30.33333,30.66667,31,32;
+right,right,down,right,down,left,up,up,right,down,left,left,right,down,left,right,down,right,right,right,right,down,left,up,up;
+95;
+Heal;

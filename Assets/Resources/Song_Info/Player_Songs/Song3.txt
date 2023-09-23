@@ -1,0 +1,4 @@
+5,5.75,6,6.75,7,8,13,14,14.33333,14.66667,16,16.33333,16.66667,21.5,21.75,22,22.75,23,23.5,24,29,30,30.33333,30.66667,31,32;
+right,up,down,up,down,left,right,up,up,up,down,down,down,left,left,left,left,right,left,right,up,up,up,up,down,left;
+95;
+Stun+Damage;
